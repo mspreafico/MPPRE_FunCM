@@ -1,5 +1,5 @@
 # MPPRE_FunCM
-Code for (i) modelling of marked-point process compensators related to recurrent events of interest with cross-validation; (ii) fitting a functional linear Cox model with the obtained compensators as multivariate functional covariates (model selection by cross-validation).
+Code for (i) modelling of Marked-Point Process compensators related to Recurrent Events (MPPRE) of interest with cross-validation; (ii) fitting a Functional linear Cox Model (FunCM) with the obtained compensators as multivariate functional covariates (model selection by cross-validation).
 [This code is also freely available as Supporting Information in the main reference paper.]
 
 ### Reference
