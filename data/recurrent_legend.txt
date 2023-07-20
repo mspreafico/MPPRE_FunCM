@@ -1,0 +1,10 @@
+Variables legend of dataset 'fake_recurrent.Rdata'
+
+id = patient's id
+start = time of the patient's previous event (equal to 0 for the index date)
+stop = time of the current event (equal to 365.5 if it is the censoring event)  
+status = event indicator (0 if censored, 1 otherwise)
+gender = patient's gender (F: female, M: male)
+age = patient's age at index hospitalization
+enum = number of events occurred in the past
+marks = sum of the marks corresponding to events enum

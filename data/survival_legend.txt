@@ -1,0 +1,7 @@
+Variables legend of dataset 'fake_survival.Rdata'
+
+id = patient's id
+death_time = time-to-death
+death_status = death indicator (0 if censored, 1 if dead)
+gender = patient's gender (F: female, M: male)
+age = patient's age at index hospitalization
